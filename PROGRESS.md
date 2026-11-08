@@ -8,13 +8,13 @@
 
 ## Module Status Overview
 
-| Module | Topic | Code Reference | Status | Score / Notes |
+| Module | Lesson File | Code Reference | Status | Score / Notes |
 | :--- | :--- | :--- | :---: | :--- |
-| **Module 1** | Causal Market Structure & Volatility Geometry | `pa_bot/data.py`, `pa_bot/indicators.py` | 🟡 Next Up | — |
-| **Module 2** | Institutional VPA, RVOL & Anchored VWAP | `pa_bot/indicators.py` | ⚪ Pending | — |
-| **Module 3** | The 3 Core Algorithmic Price Action Setups | `pa_bot/strategies.py` | ⚪ Pending | — |
-| **Module 4** | Execution Realism & $R$-Multiple Risk Engine | `pa_bot/backtest.py` | ⚪ Pending | — |
-| **Module 5** | Ablation Analysis, Stress Testing & Bot Design | `run_lab.py` | ⚪ Pending | — |
+| **Module 1** | [Causal Market Structure & Volatility Geometry](./course/module-01-market-structure-and-geometry.md) | `pa_bot/data.py`, `pa_bot/indicators.py` | 🟢 In Progress | Active lesson |
+| **Module 2** | [Institutional VPA, RVOL & Anchored VWAP](./course/module-02-vpa-rvol-and-anchored-vwap.md) | `pa_bot/indicators.py` | ⚪ Pending | — |
+| **Module 3** | [The 3 Core Algorithmic Price Action Setups](./course/module-03-three-core-price-action-setups.md) | `pa_bot/strategies.py` | ⚪ Pending | — |
+| **Module 4** | [Execution Realism & $R$-Multiple Risk Engine](./course/module-04-execution-realism-and-risk-engine.md) | `pa_bot/backtest.py` | ⚪ Pending | — |
+| **Module 5** | [Ablation Analysis, Stress Testing & Bot Design](./course/module-05-ablation-stress-testing-and-bot-design.md) | `run_lab.py` | ⚪ Pending | — |
 
 ---
 
